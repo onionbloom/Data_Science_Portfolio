@@ -12,7 +12,7 @@ I am an aerospace engineer who spends his day to day brooding over the in-servic
 <br />
 
 ### Languages and tools:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align=left alt="HTML style='height:50px'">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align=left alt="HTML"  style="height:50px">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align=left alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align=left alt="Javascript">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align=left alt="Python3">
